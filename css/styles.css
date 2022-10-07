@@ -3,10 +3,10 @@ body{
 
 }
 h1 {
-    color: rgb(32, 22, 4)
-    
+    color: rgb(32, 22, 4);
+
 }    
-h2 { color:rgb(43, 26, 7)
+h2 { color:rgb(43, 26, 7);
 
 }
 div{
@@ -20,12 +20,11 @@ div{
 }
 
 h3 { 
-    color:rgb(43, 26, 7)
+    color:rgb(43, 26, 7);
 }
-main-section {
+div {
     border-color: rgb(165, 140, 96);
     font-size: 18px;
-    border-style:solid 
 }
 
 p {
@@ -37,4 +36,8 @@ p {
 
 img { 
     border-radius: 10px;
+}
+
+.baz {
+    cursor:pointer;
 }

@@ -1,6 +1,39 @@
-body {
-    background-color: pink;
+body{
+    background-color: rgb(90, 64, 37);
+
 }
 h1 {
-    color: orange;
+    color: rgb(32, 22, 4)
+
+}    
+h2 { color:rgb(43, 26, 7)
+
 }
+div{
+    line-height: 1.8em;
+    border-style:solid;
+    border-color: white;
+}
+div{ 
+    text-align: center;
+    color: white;
+}
+h3 { 
+    color:rgb(43, 26, 7)
+}
+.main-section {
+    border-color: white;
+    font-size: 18px;
+}
+div { 
+    border-style: double solid; 
+}
+p {
+  font-style: normal;
+  font-family:"Times New Roman", Times, serif;
+}
+main.section {
+    border-style:solid 
+    border-radius: 10px;
+}
+]

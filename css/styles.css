@@ -4,36 +4,37 @@ body{
 }
 h1 {
     color: rgb(32, 22, 4)
-
+    
 }    
 h2 { color:rgb(43, 26, 7)
 
 }
 div{
     line-height: 1.8em;
-    border-style:solid;
+    border-style: double solid;
     border-color: white;
 }
 div{ 
     text-align: center;
-    color: white;
+    color: rgba(192, 169, 136, 0.88);
 }
+
 h3 { 
     color:rgb(43, 26, 7)
 }
-.main-section {
-    border-color: white;
+main-section {
+    border-color: rgb(165, 140, 96);
     font-size: 18px;
-}
-div { 
-    border-style: double solid; 
-}
-p {
-  font-style: normal;
-  font-family:"Times New Roman", Times, serif;
-}
-main.section {
     border-style:solid 
+}
+
+p {
+    color: rgb(196, 168, 145);
+    font-size: 16px; 
+    font-style: normal;
+    font-family: "Times New Roman", Times, serif;
+}
+
+img { 
     border-radius: 10px;
 }
-]
